@@ -1,0 +1,1 @@
+A basic shopping cart with only the functionality you need.  There will be an admin page, as well as PayPal/Google Checkout integration.
